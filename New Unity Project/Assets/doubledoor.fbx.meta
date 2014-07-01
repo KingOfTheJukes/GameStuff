@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 4c40168d81e77e34dbbf5612903d0d7b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature 1
+    100004: Camera
+    100006: Cube
+    100008: Cube_001
+    100010: //RootNode
+    100012: Lamp
+    100014: LeftDoor
+    100016: LeftDoor 1
+    100018: LeftDoor_000
+    100020: LeftDoor_000 1
+    100022: LeftDoor_001
+    100024: LeftDoor_001 1
+    100026: LeftDoor_002
+    100028: LeftDoor_002 1
+    100030: LeftDoor_003
+    100032: LeftDoor_003 1
+    100034: LeftDoor_004
+    100036: LeftDoor_004 1
+    100038: LeftDoor_005
+    100040: LeftDoor_005 1
+    100042: LeftDoor_006
+    100044: LeftDoor_006 1
+    100046: RightDoor
+    100048: RightDoor 1
+    100050: RightDoor_000
+    100052: RightDoor_000 1
+    100054: RightDoor_001
+    100056: RightDoor_001 1
+    100058: RightDoor_002
+    100060: RightDoor_002 1
+    100062: RightDoor_003
+    100064: RightDoor_003 1
+    100066: RightDoor_004
+    100068: RightDoor_004 1
+    100070: RightDoor_005
+    100072: RightDoor_005 1
+    100074: RightDoor_006
+    100076: RightDoor_006 1
+    100078: RightDoor_007
+    100080: RightDoor_007 1
+    400000: Armature
+    400002: Armature 1
+    400004: Camera
+    400006: Cube
+    400008: Cube_001
+    400010: //RootNode
+    400012: Lamp
+    400014: LeftDoor
+    400016: LeftDoor 1
+    400018: LeftDoor_000
+    400020: LeftDoor_000 1
+    400022: LeftDoor_001
+    400024: LeftDoor_001 1
+    400026: LeftDoor_002
+    400028: LeftDoor_002 1
+    400030: LeftDoor_003
+    400032: LeftDoor_003 1
+    400034: LeftDoor_004
+    400036: LeftDoor_004 1
+    400038: LeftDoor_005
+    400040: LeftDoor_005 1
+    400042: LeftDoor_006
+    400044: LeftDoor_006 1
+    400046: RightDoor
+    400048: RightDoor 1
+    400050: RightDoor_000
+    400052: RightDoor_000 1
+    400054: RightDoor_001
+    400056: RightDoor_001 1
+    400058: RightDoor_002
+    400060: RightDoor_002 1
+    400062: RightDoor_003
+    400064: RightDoor_003 1
+    400066: RightDoor_004
+    400068: RightDoor_004 1
+    400070: RightDoor_005
+    400072: RightDoor_005 1
+    400074: RightDoor_006
+    400076: RightDoor_006 1
+    400078: RightDoor_007
+    400080: RightDoor_007 1
+    4300000: Cube
+    4300002: Cube_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

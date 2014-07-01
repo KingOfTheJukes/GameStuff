@@ -1,0 +1,49 @@
+Main Character- Professor, invented nature controlling gun
+
+Plot- Nature controlling gun causses world destruction/ desolation, story of the creator of the gun reliving 
+memories of world's downfall
+
+Gun- Gain the following aspects(order not decided), plant, water, fire, earth, wind, lighting, ice, light
+
+Lvls 
+-Starts in the level hub, a rounded building with doors to each of his memories, 8 in all, on all sides
+statue of him with the gun in the middle, secret passsage underneath to last level. Has no recollection of
+how he is there, has no gun.
+
+-Next lvl is quarentine zone, wasteland like area where he is serching for the gun in an abandon tower/
+wiindmill, surrounded by fence, come out of portal in the middle of a trash wasteland with a forest a little 
+further surrounding the tower, tower puzzles consist of jumping puzzles andexploration of the physics engine, 
+nothing too tough, just showing the basic controlls of the game, top of the towers holds the incomplete nature
+controlling gun, ony has control of one aspect of nature, in the process of getting to the top of the tower
+Professor must turn on the power of the windmill, this charges the gun with one element and opens the portal
+back to level hub.
+
+-Next lvl is the tree, large dense forest must be traversed to get to the giant trees in the middle, getting 
+to trees in the middle show uses of new aspect, large trees are main area of resorce gathering and are 
+encounterring a problem with functionallity, asked Professor to come try to fix it since it is a mechanical 
+issue at top of tower, trees are covered in machinery and are somewhat hallowed out, tree has grown over the 
+tree and causing problems with production, sudden growth caused by activation fo the windmill, Professor called
+in to fix it with his gun, must climb up to the top to get inside to the bottom, freeing generator charges 
+gun with next aspect, but leaves generator perminantly at less efficiency.
+
+-Next lvl is water city, floating city on the water has started sinking due to lack of resorces to power it,
+first introduction of enemies, fish in the water can attack player in flooded areas, Professor musst climb 
+under the city to find the leak and before climbing to the top to get a large power sorce to supercharge his
+gun, once supercharged, Professor must go back to the underside of the city and create a giant tree under the 
+city to hold it up, water aspect will be ued to change currents in the water, increasing, decreasing or 
+moving the water, after supercharge as been released, gun gains next aspect control.
+
+-Next lvl is
+
+-Next lvl is
+
+-Next lvl is
+
+-Next lvl is
+
+-Next lvl is memories, lvl based completely around illusions, skips to amny different times, shows complete
+downfall of the world, lvl hub is introduced to have a secret passage unde the statue in the middle, light 
+puzzles will involve mirrors, light sensors, and shadow illusions
+
+-Next lvl is escape, takes place after player enteres secret passage under lvl hub, probably one of the 
+longest lvls, starts in a sewer area before transitioning 
